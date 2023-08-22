@@ -12,6 +12,8 @@ void print_buffer(char buffer[], int *buff_ind);
 
  * Return: Printed chars.
 
+ * by Rylin and Dillin
+
  */
 
 int _printf(const char *format, ...)
